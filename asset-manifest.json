@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Boincoin/static/css/main.232d2fd7.css",
+    "main.js": "/Boincoin/static/js/main.7e9f3d9c.js",
+    "static/media/file.png": "/Boincoin/static/media/file.50b61f8cb2a008211df6.png",
+    "index.html": "/Boincoin/index.html",
+    "main.232d2fd7.css.map": "/Boincoin/static/css/main.232d2fd7.css.map",
+    "main.7e9f3d9c.js.map": "/Boincoin/static/js/main.7e9f3d9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.232d2fd7.css",
+    "static/js/main.7e9f3d9c.js"
+  ]
+}
